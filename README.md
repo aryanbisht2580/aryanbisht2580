@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Aryan Bisht </h2>
+<img src="./assets/images/herobanner.png">
+
+<h1 align="center">Hi there, I'm Aryan Bisht 👋</h1>
+I'm a passionate Software Developer with a strong foundation in software development, proficient in applying core principles of software development and experienced with various technologies and frameworks to tackle complex problems.
 
 ###
 
